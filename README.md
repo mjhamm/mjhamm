@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Michael Hamm
   --
-- I’m interested in mobile development through Android, Swift and Dart and open to any positions for work, both remote and local to the Boston, MA area
-- I am experienced with Android(Java) and iOS(Swift) application development as well as currently learning Dart and Flutter to increase productivity and allow for a more uniform user experience between both systems
+- I’m interested in Android Engineering roles and am open to any positions for work, preferably remote.
+- I am an experienced Android Engineer and fluent in reading and writing in both Java and Kotlin.
+
+- I have built customer facing components that have helped drive significant incremental revenue on both the [Ruelala](https://play.google.com/store/apps/details?id=com.retailconvergence.ruelala) & [Gilt](https://play.google.com/store/apps/details?id=com.gilt.android) Applications
 - 📫 How to reach me: mjhamm@bu.edu or through LinkedIn @ www.linkedin.com/in/michael-hamm-001/
 
 <!---
