@@ -1,6 +1,6 @@
-# <p align=center> Hi 👋, I'm Michael</p>
-
-### <p align=center>An Android Engineer from the US</p>
+<p align="center">
+  <img src="./hello.gif" height="400">
+</p>
 
 
 - I’m interested in Android Engineering roles and am open to any positions for work, preferably remote.
