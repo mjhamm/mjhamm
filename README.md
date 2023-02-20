@@ -1,15 +1,21 @@
 <p align="center">
-  <img src="./hello.gif" height="400">
+  <img src="./welcome.png">
 </p>
 
+#### I'm an Android Developer with a Bachelor's of Science from Boston University (BU). I'm passionate about all things Android and love cretaing things that people can hold in their hands and use every day!
 
-- I’m interested in Android Engineering roles and am open to any positions for work, preferably remote.
-- I am an experienced Android Engineer and fluent in reading and writing in both Java and Kotlin.
+## Operating Systems
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
-- I have built customer facing components that have helped drive significant incremental revenue on both the [Ruelala](https://play.google.com/store/apps/details?id=com.retailconvergence.ruelala) & [Gilt](https://play.google.com/store/apps/details?id=com.gilt.android) Applications while working as an Android Engineer at Rue Gilt Groupe
-- 📫 How to reach me: mjhamm@bu.edu or through LinkedIn @ www.linkedin.com/in/michael-hamm-001/
+## Languages
+<img src="https://img.shields.io/badge/Kotlin%20-%15b50d.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Java%20-%15b50d.svg?&style=for-the-badge&logo=Java&logoColor=white" />
 
-Interested in where I've been? ![My Resume](./Resume-Michael-Hamm.pdf)
+---
+- Currently open to new opportunities
+- Have built customer facing components that have helped drive significant incremental revenue on both the [Ruelala](https://play.google.com/store/apps/details?id=com.retailconvergence.ruelala) & [Gilt](https://play.google.com/store/apps/details?id=com.gilt.android) Applications while working as an Android Engineer at Rue Gilt Groupe
+- 📫 How to reach me: mjhamm@bu.edu or through <a href="www.linkedin.com/in/michael-hamm-001"/>LinkedIn</a>
+
+Interested in where I've been? <a href="./Resume-Michael-Hamm.pdf">My Resume</a>
 
 <!---
 mjhamm/mjhamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
