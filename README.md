@@ -2,7 +2,7 @@
   <img src="./welcome.png">
 </p>
 
-#### I'm an Android Developer with a Bachelor's of Science from Boston University (BU). I'm passionate about all things Android and love cretaing things that people can hold in their hands and use every day!
+#### I'm an Android Developer with a Bachelor's of Science from Boston University (BU). I'm passionate about all things Android and love creating things that people can hold in their hands and use every day! In my spare time I love to create apps that solve problems or help people overcome some annoyance in their life and make it that much easier.
 
 ## Operating Systems
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
