@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Kotlin%20-%15b50d.svg?&style=for-the-badge&logo=Kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Java%20-%15b50d.svg?&style=for-the-badge&logo=Java&logoColor=white" />
 
 ---
-- Currently open to new opportunities
+- Currently working at CommentSold doing some great new things in the world of LiveSelling.
 - Have built customer facing components that have helped drive significant incremental revenue on both the [Ruelala](https://play.google.com/store/apps/details?id=com.retailconvergence.ruelala) & [Gilt](https://play.google.com/store/apps/details?id=com.gilt.android) Applications while working as an Android Engineer at Rue Gilt Groupe
 - 📫 How to reach me: mjhamm@bu.edu or through <a href="www.linkedin.com/in/michael-hamm-001"/>LinkedIn</a>
 
